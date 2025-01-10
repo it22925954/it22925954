@@ -16,9 +16,22 @@
 ---
 
 ### 🌷 About Me
-- 🌱 I’m currently learning **React Native**  
-- 💬 Ask me about **Programming and Tech Trends**  
-- 📫 Reach me at **sasinithennakoon110@gmail.com**
+
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+
+<div style="flex: 1; max-width: 400px;">
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="100%" style="border-radius: 10px;" />
+</div>
+
+<div style="flex: 1; max-width: 400px;">
+  <ul style="text-align: left; list-style: none; padding: 0;">
+    <li>🌱 I’m currently learning <b>React Native</b></li>
+    <li>💬 Ask me about <b>Programming and Tech Trends</b></li>
+    <li>📫 Reach me at <b>sasinithennakoon110@gmail.com</b></li>
+  </ul>
+</div>
+
+</div>
 
 ---
 
