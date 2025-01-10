@@ -2,27 +2,30 @@
   <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Animated Header" width="900" />
 </p>
 
-<h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
-<h3 align="center" style="color: #ffb6c1;">A passionate Frontend Developer from India</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sasini Tennakoon</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="350" />
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="300" />
 </p>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sasinitennakoon&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌷 About Me
-- 🌱 I’m currently learning **React Native**  
-- 💬 Ask me about **Programming and Tech Trends**  
-- 📫 Reach me at **sasinithennakoon110@gmail.com**
+### ⚜️ About Me
+<ul>
+  <li>🌱 I’m currently learning <b>React Native</b></li>
+  <li>💬 Ask me about <b>Programming and Tech Trends</b></li>
+  <li>📧 Reach me at <b>sasinithennakoon110@gmail.com</b></li>
+  <li>⚡ Fun fact: I am <b>Funny</b></li>
+</ul>
 
 ---
 
-### 💖 Connect with Me
+### 💎 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/sasinitennakoon" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -66,17 +69,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasinitennakoon&show_icons=true&theme=pink&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasinitennakoon&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasinitennakoon&theme=pink" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasinitennakoon&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sasinitennakoon&show_icons=true&theme=pink&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sasinitennakoon&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center" style="color: #ff69b4;">✨ "Code is like poetry; elegant, expressive, and a little magical." ✨</p>
+<p align="center">✨ <i>"Code is like poetry; elegant, expressive, and a little magical."</i> ✨</p>
