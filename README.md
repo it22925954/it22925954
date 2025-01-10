@@ -1,9 +1,9 @@
+<h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
+<h3 align="center" style="color: #ffb6c1;">A passionate Frontend Developer from India</h3>
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="400" />
 </p>
-
-<h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
-<h3 align="center" style="color: #ffb6c1;">A passionate Frontend Developer from India</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sasinitennakoon&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
