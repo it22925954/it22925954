@@ -15,16 +15,18 @@
 
 ---
 
-<h2 align="center">🌷 About Me</h2>
-<ul style="list-style-type: none; text-align: center; padding: 0;">
-  <li>🌱 I’m currently learning <b>React Native</b></li>
-  <li>💬 Ask me about <b>Programming and Tech Trends</b></li>
-  <li>📫 Reach me at <b>sasinithennakoon110@gmail.com</b></li>
-</ul>
+### 🌷 About Me
+<p align="center">
+  🌱 I’m currently learning <b>React Native</b>  
+  <br />
+  💬 Ask me about <b>Programming and Tech Trends</b>  
+  <br />
+  📫 Reach me at <b>sasinithennakoon110@gmail.com</b>
+</p>
 
 ---
 
-<h2 align="center">💖 Connect with Me</h2>
+### 💖 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/sasinitennakoon" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,7 +35,7 @@
 
 ---
 
-<h2 align="center">💻 Languages & Tools</h2>
+### 💻 Languages & Tools
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
@@ -66,7 +68,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sasinitennakoon&show_icons=true&theme=pink&locale=en" alt="GitHub Stats" />
 </p>
