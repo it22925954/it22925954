@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Animated Header" width="600" />
+  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Animated Header" width="800" />
 </p>
 
 <h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
