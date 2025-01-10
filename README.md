@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Animated Header" width="600" />
+  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Animated Header" width="900" />
 </p>
 
 <h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
 <h3 align="center" style="color: #ffb6c1;">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="350" />
 </p>
 
 <p align="center"> 
