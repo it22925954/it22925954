@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
-<h3 align="center" style="color: #ffb6c1;">A passionate Frontend Developer from India</h3>
+<h3 align="center" style="color: #ffb6c1;">Information Technology Undergraduate from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="350" />
@@ -16,13 +16,9 @@
 ---
 
 ### 🌷 About Me
-<p align="center">
-  🌱 I’m currently learning <b>React Native</b>  
-  <br />
-  💬 Ask me about <b>Programming and Tech Trends</b>  
-  <br />
-  📫 Reach me at <b>sasinithennakoon110@gmail.com</b>
-</p>
+- 🌱 I’m currently learning **React Native**  
+- 💬 Ask me about **Programming and Tech Trends**  
+- 📫 Reach me at **sasinithennakoon110@gmail.com**
 
 ---
 
