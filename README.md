@@ -5,25 +5,21 @@
 <h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
 <h3 align="center" style="color: #ffb6c1;">Information Technology Undergraduate from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="350" />
-</p>
+  <img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="400" />
+ 
+  <img align="center" src="https://komarev.com/ghpvc/?username=sasinitennakoon&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sasinitennakoon&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ### 🌷 About Me
-- 🌱 I’m currently learning **React Native**  
-- 💬 Ask me about **Programming, Web Development, and Tech Trends**  
-- 📫 Reach me at **sasinithennakoon110@gmail.com**
+- 🌱 I’m currently learning *React Native*  
+- 💬 Ask me about *Programming, Web Development, and Tech Trends*  
+- 📫 Reach me at *sasinithennakoon110@gmail.com*
 
 ---
 
+
 ### 💖 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/sasinitennakoon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,8 +30,8 @@
 
 ---
 
+
 ### 💻 Skills & Tools
-<p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
   </a>
@@ -63,7 +59,6 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </a>
-</p>
 
 ---
 
