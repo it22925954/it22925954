@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="Self-Portrait GIF" width="350" style="border-radius: 10px;" />
+<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="Self-Portrait GIF" width="400" style="border-radius: 10px;" />
 
 ### 🌷 About Me
 - 🌱 Currently learning **Power BI**
