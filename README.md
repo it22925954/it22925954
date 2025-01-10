@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Animated Header" width="600" />
+</p>
+
 <h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
 <h3 align="center" style="color: #ffb6c1;">A passionate Frontend Developer from India</h3>
 
