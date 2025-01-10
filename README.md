@@ -5,24 +5,20 @@
 <h1 align="center" style="color: #ff69b4;">Hi 🌸, I'm Sasini Tennakoon</h1>
 <h3 align="center" style="color: #ffb6c1;">A Passionate Frontend Developer from India</h3>
 
-<p align="center">
-  ### 🌷 About Me
-- 🌱 I’m currently learning **React Native**  
-- 💬 Ask me about **Programming, Web Development, and Tech Trends**  
-- 📫 Reach me at **sasinithennakoon110@gmail.com**
+<p align="right">
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="self-portrait-gif" width="250" />
 </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sasinitennakoon&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ### 🌷 About Me
 - 🌱 I’m currently learning **React Native**  
 - 💬 Ask me about **Programming, Web Development, and Tech Trends**  
 - 📫 Reach me at **sasinithennakoon110@gmail.com**
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sasinitennakoon&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
