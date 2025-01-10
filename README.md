@@ -16,12 +16,12 @@
 ---
 
 ### ⚜️ About Me
-<ul>
-  <li>🌱 I’m currently learning <b>React Native</b></li>
-  <li>💬 Ask me about <b>Programming and Tech Trends</b></li>
-  <li>📧 Reach me at <b>sasinithennakoon110@gmail.com</b></li>
-  <li>⚡ Fun fact: I am <b>Funny</b></li>
-</ul>
+<p align="center">
+  🌱 I’m currently learning <b>React Native</b><br>
+  💬 Ask me about <b>Programming and Tech Trends</b><br>
+  📧 Reach me at <b>sasinithennakoon110@gmail.com</b><br>
+  ⚡ Fun fact: I am <b>Funny</b>
+</p>
 
 ---
 
