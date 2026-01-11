@@ -1,8 +1,9 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Animated Header" width="900" /> </p> <h1 align="center" style="color: #ff69b4; font-family: Arial, sans-serif;">Hi 🌸, I'm Sasini Tennakoon</h1> <h3 align="center" style="color: #ffb6c1; font-family: Arial, sans-serif;">IT Undergraduate @ SLIIT | QA Intern | Full-Stack & Automation Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasinitennakoon&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" /> </p>
-<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="Self-Portrait GIF" width="400" style="border-radius: 10px;" />
+<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="Self-Portrait GIF" width="400" style="border-radius: 12px;" />
 🌷 About Me
 
 🌱 Currently exploring Cloud Computing, QA Automation, and Test Frameworks
+
 
 👩‍🎓 SLIIT Undergraduate | QA Internship Experience on real-world projects
 
